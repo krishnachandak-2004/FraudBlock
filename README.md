@@ -1,6 +1,6 @@
 # FraudBlock
 
-![GitHub](https://img.shields.io/github/last-commit/yogeshxd/FraudBlock)
+
 
 ```
 NOTE: Devlopement of this project has been stopped because I am working on newer projects so this repository will not be receving any updates.
@@ -9,8 +9,7 @@ Last Update: Fixed issues with connecting with metamask.
 
 ### Blockchain based Fake product identification Solution using QR Codes
 
-## Installation & Demo
-[![FraudBlock](https://github.com/yogeshxd/FraudBlock/blob/main/Documents/image.png)](https://youtu.be/F01t48jT5wQ)
+
 
 ## Packages Required:-
 - Truffle v5.6.7 (core: 5.6.7)
@@ -28,7 +27,7 @@ Last Update: Fixed issues with connecting with metamask.
 
 1. Clone the project
 ```
-git clone https://github.com/yogeshxd/FraudBlock
+git clone https://github.com/krishnachandak-2004/FraudBlock
 ```
 2. Go to the project folder, open terminal there and run following command to install required node_modules:-
 ```
